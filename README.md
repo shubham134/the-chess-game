@@ -8,12 +8,10 @@ This game can be played in three modes:
   
   3.computer against computer
 	
-note: to change the mode just remove one as a comment
+note: to change the mode just remove one as a comment in PlayChess.java:
 
-      //  public static String pMode = "withFriend";
+      // public static String pMode = "withFriend";
       
-      //	public static String pMode = "computerOnly";	
+      // public static String pMode = "computerOnly";	
       
-      //	public static String pMode = "withComputer";
-      
-      in PlayChess.java
+      // public static String pMode = "withComputer";
