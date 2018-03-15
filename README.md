@@ -15,3 +15,5 @@ note: to change the mode just remove one as a comment in PlayChess.java:
       // public static String pMode = "computerOnly";	
       
       // public static String pMode = "withComputer";
+
+![alt text](the-chess-game/chess-snapshot.PNG)
